@@ -7,6 +7,6 @@ A  C++AMP (Accelerated Massive Parallelism) implementation for Matrix Multiplica
 
 * C++ AMP library
 
-* Nvidia GT 710 < GPU < Nvidia GTX 840
+* Nvidia GT 710 < GPU < Nvidia GTX 840 or any AMD Radeon GPU
 
-### Caution : Do not profile this code with Intel VTunes / perf / operf.
+### Caution : Do not profile this code with Intel VTunes / perf / oprofile.
